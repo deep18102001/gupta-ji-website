@@ -1,0 +1,234 @@
+{
+  "Product": [
+    {
+      "id": 1,
+      "type": "NB NICKY BOY ",
+      "description": "Men Printed Round Neck Cotton Blend Black T-Shirt",
+      "price": "₹219",
+      "category": "Men",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/u/n/a/l-half-latter-one-nb-nicky-boy-original-imagk2gr6ngwxgft.jpeg?q=70",
+      "cart": "false",
+      "quantity": 1,
+      "image1": "https://nobero.com/cdn/shop/products/believe-in-yourself_3.jpg?v=1676968324",
+      "image2": "https://nobero.com/cdn/shop/products/wander-soul_c8ceb89a-eac6-4ce3-91e4-bd2f01b19a65.jpg?v=1676697848",
+      "image3": "https://nobero.com/cdn/shop/products/take-a-break.jpg?v=1678964479"
+    },
+    {
+      "id": 2,
+      "type": "NB NICKY BOY ",
+      "description": "Men Printed Round Neck Cotton Blend Black T-Shirt",
+      "price": "₹542",
+      "category": "Men",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/sweatshirt/b/g/c/xxl-fwsgr54-fionaa-trendz-original-imagjzstksvfwbqb.jpeg?q=70",
+      "cart": "true",
+      "quantity": 1,
+      "image1": "https://nobero.com/cdn/shop/files/WhatsAppImage2023-11-09at10.34.47AM.jpg?v=1723114513",
+      "image2": "https://nobero.com/cdn/shop/files/wine-red.jpg?v=1723626664",
+      "image3": "https://nobero.com/cdn/shop/files/oat-milk_35479eb8-96af-4267-9053-cc3cebe0b094.jpg?v=1723713361&width=360"
+    },
+    {
+      "id": 3,
+      "type": "FIONAA TRENDZ ",
+      "description": "Men Full Sleeve Printed Hooded Sweatshirt",
+      "price": "₹404",
+      "category": "Men",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/sweatshirt/m/c/a/xxl-hsjsj9-fionaa-trendz-original-imaggwxazcnpjj9g.jpeg?q=70",
+      "image1": "https://nobero.com/cdn/shop/files/WhatsAppImage2023-11-09at10.34.47AM.jpg?v=1723114513",
+      "image2": "https://nobero.com/cdn/shop/files/wine-red.jpg?v=1723626664",
+      "image3": "https://nobero.com/cdn/shop/files/oat-milk_35479eb8-96af-4267-9053-cc3cebe0b094.jpg?v=1723713361&width=360"
+    },
+    {
+      "id": 4,
+      "type": "Veirdo  ",
+      "description": "Men Full Sleeve Graphic Print Hooded Sweatshirt",
+      "price": "₹919",
+      "category": "Men",
+      "image": "https://tanisah.com/wp-content/uploads/2023/12/6814321913.jpg",
+      "image1": "https://m.media-amazon.com/images/I/51cNMNimNGL._SY879_.jpg",
+      "image2": "https://m.media-amazon.com/images/I/619Kn0PlXUL._SX569_.jpg",
+      "image3": "https://m.media-amazon.com/images/I/61vMfbAQdSL._SX569_.jpg",
+      "cart": "true",
+      "quantity": 1
+    },
+    {
+      "id": 5,
+      "type": "egrecia   ",
+      "description": "Women Full Sleeve Solid Hooded Sweatshirt",
+      "price": "₹379",
+      "category": "women",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/sweatshirt/p/g/t/s-women-girls-stylish-and-beautifull-hoodies-with-unique-original-imagz77kmfsuygrh.jpeg?q=70",
+      "cart": "false",
+      "image1": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/k/h/khhalisi-2074-pink_51ddc851.jpg?rnd=20200526195200&tr=w-512",
+      "image2": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/k/h/khhalisi-2074-white_6f7d62a9.jpg?rnd=20200526195200&tr=w-512",
+      "image3": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/c/dc5a9853720-W_1.jpg?rnd=20200526195200&tr=w-512"
+    },
+    {
+      "id": 6,
+      "type": "Likha  ",
+      "description": "Viscose Silk Dori Embroidered Angrakha with Net Dupatta (Set of 3)",
+      "price": "₹3,150",
+      "category": "women",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/0/8/08b5d0eVNY402R-Full_1.jpg?rnd=20200526195200&tr=w-512",
+      "image1": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/6/b/6b85546NKL_LIKHA00005115_1.jpg?rnd=20200526195200&tr=w-512",
+      "image2": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/e/de77a6cLIKFRKS02-Green_1.jpg?rnd=20200526195200&tr=w-512",
+      "image3": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/e/de77a6cLIKFRKS02-Fuchsia_1.jpg?rnd=20200526195200&tr=w-512"
+    },
+    {
+      "id": 7,
+      "type": "egrecia   ",
+      "description": "Womens Off White T-shirt",
+      "price": "₹779",
+      "category": "women",
+      "image": "https://rukminim2.flixcart.com/image/888/888/xif0q/top/m/m/f/xxl-butterfly-printed-rcs-fashion-original-imah2wy7hd6h7gt3.jpeg?q=70&crop=false",
+      "cart": "false",
+      "quantity": 1
+    },
+    {
+      "id": 8,
+      "type": "naruvees",
+      "description": "Women Printed Round Neck Cotton Blend Black T-Shirt",
+      "price": "₹365",
+      "category": "women",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/f/z/p/xs-wrtbkbtrflylky2-naruvees-original-imah5dwxejdymxzq.jpeg?q=70"
+    },
+    {
+      "id": 9,
+      "type": "PURNKAMAAY TRENDZ ",
+      "description": "Disney Princess Girls Below Knee Casual Dress  (Green, Sleeveless)",
+      "price": "₹399",
+      "category": "girls",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-dress/i/w/s/9-10-years-bngown03-ftc-fashions-original-imah389k4ggwtfvj.jpeg?q=70",
+      "cart": "false",
+      "quantity": 1
+    },
+    {
+      "id": 10,
+      "type": "FTC FASHIONS ",
+      "description": "Girls Maxi/Full Length Party Dress  (Black, Full Sleeve)",
+      "price": "₹365",
+      "category": "girls",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/t-shirt/f/z/p/xs-wrtbkbtrflylky2-naruvees-original-imah5dwxejdymxzq.jpeg?q=70"
+    },
+    {
+      "id": 11,
+      "type": "HIKUJ",
+      "description": "Girls Midi/Knee Length Casual Dress  (Red, Full Sleeve)",
+      "price": "₹280",
+      "category": "girls",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-dress/y/x/o/2-3-years-f-h-double-patti-red-hikuj-original-imagh7j84pccepqb.jpeg?q=70"
+    },
+    {
+      "id": 12,
+      "type": "MUSKAN BEAUTY COLLECTION",
+      "description": "Girls Midi/Knee Length Casual Dress  (Light Blue, Sleeveless)",
+      "price": "₹365",
+      "category": "girls",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-dress/v/d/i/2-3-years-bigeye01-muskan-beauty-collection-original-imahycuxryhfjhmh.jpeg?q=70"
+    },
+    {
+      "id": 13,
+      "type": "New Ekta Dresses",
+      "description": "Boys Festive & Party Dhoti & Kurta Set ",
+      "price": "₹254",
+      "category": "boys",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-ethnic-set/x/v/j/6-9-months-1000-buti-new-ekta-dresses-original-imagsaztujxnvwrw.jpeg?q=70"
+    },
+    {
+      "id": 14,
+      "type": "FTC FASHIONS",
+      "description": "Boys Festive & Party Dhoti & Kurta Set",
+      "price": "₹168",
+      "category": "boys",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-ethnic-set/j/j/n/3-4-years-whitejabla-ftc-fashions-original-imaft8pzfzegxtyb-bb.jpeg?q=70"
+    },
+    {
+      "id": 15,
+      "type": "New Ekta Dresses",
+      "description": "Boys Festive & Party Dhoti & Kurta Set ",
+      "price": "₹254",
+      "category": "boys",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-ethnic-set/x/n/9/2-3-years-1000-buti-new-ekta-dresses-original-imagsaztywggdeca.jpeg?q=70"
+    },
+    {
+      "id": 16,
+      "type": "SUNCITY FASHION MART ",
+      "description": "Boys Casual Kurta and Dhoti Pant Set ",
+      "price": "₹274",
+      "category": "boys",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-ethnic-set/7/q/c/6-9-months-f-raja-kurta-pajama-2-0-white-suncity-fashion-mart-original-imagmrukyahkmsw5.jpeg?q=70"
+    },
+    {
+      "id": 17,
+      "type": "NIKE ",
+      "description": "Revolution 5 Running Shoes For Men ",
+      "price": "₹3,109",
+      "category": "shoes",
+      "image": "https://rukminim2.flixcart.com/image/400/400/xif0q/shoe/m/m/v/-original-imagg7szgcmfgauh.jpeg?q=50"
+    },
+    {
+      "id": 18,
+      "type": "NIKE",
+      "description": "Court Royale 2 WoShoe Tennis Shoes For Women ",
+      "price": "₹3,167",
+      "category": "shoes",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/shoe/k/9/l/3-5-dh3159-101-6-nike-white-pink-oxford-black-tm-orange-original-imagbkjxyaymzzwp-bb.jpeg?q=70",
+      "cart": "false",
+      "quantity": 1
+    },
+    {
+      "id": 19,
+      "type": "asian",
+      "description": "Lace Sneakers For Boys  (White) ",
+      "price": "₹649",
+      "category": "shoes",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/kids-shoe/w/x/g/5-779-ch-deals4you-original-imagzfamskp8mgyr.jpeg?q=70",
+      "cart": "false",
+      "quantity": 1
+    },
+    {
+      "id": 20,
+      "type": "Edee ",
+      "description": "Velcro Ballerinas For Girls  (Tan)",
+      "price": "₹499",
+      "category": "shoes",
+      "image": "https://rukminim2.flixcart.com/image/400/400/xif0q/kids-shoe/h/2/5/11c-edsanamtan-edee-original-imah4w49yz6e9zw2.jpeg?q=50"
+    }
+  ],
+  "user": [
+    {
+      "name": "deep",
+      "emailId": "deep@gmail.com",
+      "password": "258",
+      "number": "2580",
+      "id": 1
+    },
+    {
+      "name": "deep",
+      "emailId": "deep@gmail.com",
+      "password": "",
+      "number": "25",
+      "id": 2
+    },
+    {
+      "name": "omkar",
+      "emailId": "deep@gmail.com",
+      "password": "",
+      "number": "25",
+      "id": 3
+    },
+    {
+      "name": "sid",
+      "emailId": "deep@gmail.com",
+      "password": "5820",
+      "number": "2580",
+      "id": 4
+    },
+    {
+      "name": "sid",
+      "emailId": "deep@gmail.com",
+      "password": "",
+      "number": "2580258000",
+      "id": 5
+    }
+  ]
+}
